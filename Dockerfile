@@ -1,4 +1,4 @@
-FROM dockerfile/java:oracle-java7
+FROM library/java:openjdk-7-jre
 
 MAINTAINER Zach Cox zach.cox@banno.com
 
