@@ -1,4 +1,4 @@
-FROM library/java:openjdk-7-jre
+FROM library/java:openjdk-7-jdk
 
 MAINTAINER Zach Cox zach.cox@banno.com
 
